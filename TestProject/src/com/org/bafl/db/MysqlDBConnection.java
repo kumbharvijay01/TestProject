@@ -6,7 +6,7 @@ public class MysqlDBConnection {
 		// TODO Auto-generated method stub
 		System.out.println("Welcome to Java World");
 		System.out.println("Welcome to Java World");
-		
+		System.out.println("Welcome to Java World");
 	}
 
 }
